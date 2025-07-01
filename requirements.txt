@@ -1,9 +1,9 @@
 ipykernel
 pypdf
 bs4
-arxiv
+arxiv==2.2.0
 pymupdf
-wikipedia
+wikipedia==1.4.0
 chromadb
 sentence_transformers
 faiss-cpu
