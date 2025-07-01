@@ -23,3 +23,5 @@ pydantic==1.10.13
 uvicorn
 python-dotenv
 sse-starlette==1.6.5
+SQLAlchemy==2.0.41
+mysql-connector-python==9.3.0
