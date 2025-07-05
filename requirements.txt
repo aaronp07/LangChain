@@ -25,3 +25,5 @@ python-dotenv
 sse-starlette==1.6.5
 SQLAlchemy==2.0.41
 mysql-connector-python==9.3.0
+numexpr==2.11.0
+wikipedia==1.4.0
