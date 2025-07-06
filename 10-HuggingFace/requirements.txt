@@ -1,0 +1,10 @@
+langchain==0.3.26
+langchain_community==0.3.26
+langchain_groq==0.3.4
+langchain-text-splitters==0.3.8
+streamlit==1.46.1
+validators==0.35.0
+youtube_transcript_api==1.1.1
+python-dotenv
+unstructured==0.18.2
+pytube==15.0.0
